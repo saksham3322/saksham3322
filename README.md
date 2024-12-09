@@ -39,7 +39,7 @@ Hello! I'm **Saksham Maurya**, a passionate and dedicated developer with a stron
 - ✅ Completed **Python Project Bootcamp** and **Java Bootcamp** with LetsUpgrade  
 - 🔥 Reached a **100-day streak** on **CodeChef**  
 - 📜 Certified in **Java (Basic)** by HackerRank  
-- 🧩 Solved **50+ problems** on **LeetCode** and **GeeksforGeeks** with the **Striver A2Z DSA Sheet**  
+- 🧩 Solved **500+ problems** on **LeetCode** and **GeeksforGeeks** with the **Striver A2Z DSA Sheet**  
 - 🎯 Participant in **TCS CodeVita Exam**  
 
 ---
@@ -58,7 +58,7 @@ Hello! I'm **Saksham Maurya**, a passionate and dedicated developer with a stron
 - 🎓 **Problem Solving (Basic)** by HackerRank
 - 🎓 **Problem Solving (Intermediate)** by HackerRank
 - 🎓 **Java (Basic)** by HackerRank
-- - 🎓 **Data Structure and Algorithms** by Udemy
+- 🎓 **Data Structure and Algorithms** by Udemy
 
 ---
 
