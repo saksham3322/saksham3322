@@ -19,8 +19,6 @@ Hello! I'm **Saksham Maurya**, a passionate and dedicated developer with a stron
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=saksham3322&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=saksham3322&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=saksham3322&icon=0&color=0)](https://visitcount.itsvg.in)
